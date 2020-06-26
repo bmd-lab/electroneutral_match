@@ -3,7 +3,7 @@ from itertools import combinations_with_replacement
 from typing import Sequence
 
 n_ions = 5
-data_file = "157numb"
+data_file = "list_of_oxidation_states"
 
 
 #def all_electroneutral_combinations(charges: Sequence, n_ions: int) -> list:
